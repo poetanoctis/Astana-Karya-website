@@ -60,16 +60,16 @@ const images = [
     {
         src: "pp1.png",
         title: "Dieng Frizz",
-        description:"Jenis minuman yang kami pilih dengan tujuan untuk membantu menyegarkan badan melalui minuman bersoda dingin dengan komposisi <i>soda sprite</i>, es batu, sirup, dan <i>jelly</i>. Cocok saat musim panas ini dan terutama saat hari-h bazaar dimana akan panas sekali suasananya. Awalnya, kami rencana untuk membuat pop ice, tetapi dengan tahap yang merepotkan, kami ubah menjadi minuman ini." },
+        description:"Jenis minuman yang kami pilih dengan tujuan untuk membantu menyegarkan badan melalui minuman bersoda dingin dengan komposisi soda sprite, es batu, sirup, dan jelly. Cocok saat musim panas ini dan terutama saat hari-h bazaar dimana akan panas sekali suasananya. Awalnya, kami rencana untuk membuat pop ice, tetapi dengan tahap yang merepotkan, kami ubah menjadi minuman ini." },
     {
         src: "pp2.png",
         title: "Wafflicious",
-        description: "Hidangan penutup kami, yaitu <i>waffle</i> yang kami awalnya ingin buat untuk produk bioteknologi (menggunakan ragi instan) tetapi pada akhirnya tidak terpilih. Waffle yang kami sajikan ini kami persiapkan tiga topping yaitu gula aren, <i>whipped cream</i>, <i>maple syrup</i> tetapi dengan penambahan harga Rp2.000 per topping."
+        description: "Hidangan penutup kami, yaitu waffle yang kami awalnya ingin buat untuk produk bioteknologi (menggunakan ragi instan) tetapi pada akhirnya tidak terpilih. Waffle yang kami sajikan ini kami persiapkan tiga topping yaitu gula aren, whipped cream, maple syrup tetapi dengan penambahan harga Rp2.000 per topping."
     },
     {
         src: "pp3.png",
         title: "Mambo Delight",
-        description: "Hidangan dingin ini yang kami pilih karena tidak memerlukan bahan yang ribet dan cepat untuk dibuat. Hidangan ini berbentuk lonjong dan panjang yaitu es mambo yang mempunyai 4 rasa; <i>bubblegum</i>, mangga, stroberi, dan anggur yang sudah kami persiapkan dan dibeku di rumah sehingga dapat bertekstur sama seperti es batu tetapi dengan rasa-rasa yang variatif."
+        description: "Hidangan dingin ini yang kami pilih karena tidak memerlukan bahan yang ribet dan cepat untuk dibuat. Hidangan ini berbentuk lonjong dan panjang yaitu es mambo yang mempunyai 4 rasa; bubblegum, mangga, stroberi, dan anggur yang sudah kami persiapkan dan dibeku di rumah sehingga dapat bertekstur sama seperti es batu tetapi dengan rasa-rasa yang variatif."
     },
     {
         src: "pp4.png",
@@ -79,7 +79,7 @@ const images = [
     {
         src: "pp5.png",
         title: "Hairbow Batik",
-        description: "Aksesoris cantik terbentuk dari kain batik khas Indonesia yang kami buat untuk produk kesenian. Awalnya kami ingin membuat brooch dan pita batik, tetapi karena terlalu sulit untuk dibuat, kami direkomendasi untuk membuat <i>hairbow</i> batik. Akhirnya kami memilih <i>hairbow</i> batik dengan ada tiga jenis warna yang indah untuk mempercantik diri dengan ikat rambut yang sudah dijahit dibelakangnya."
+        description: "Aksesoris cantik terbentuk dari kain batik khas Indonesia yang kami buat untuk produk kesenian. Awalnya kami ingin membuat brooch dan pita batik, tetapi karena terlalu sulit untuk dibuat, kami direkomendasi untuk membuat hairbow batik. Akhirnya kami memilih hairbow batik dengan ada tiga jenis warna yang indah untuk mempercantik diri dengan ikat rambut yang sudah dijahit dibelakangnya."
     },
     {
         src: "pp6.png",
@@ -89,22 +89,22 @@ const images = [
     {
         src: "pp7.png",
         title: "NusaPouchy (PPKn)" ,
-        description: "Termasuk juga produk umum untuk menyimpan barang-barang kecil ataupun barang-barang yang penting. Pouch yang sudah kami persiapkan menggunakan gambar Mbaru Niang (NTT), Monas (Jawa - Jakarta), dan Keris (Jawa) yang merupakan kebudayaan khas Indonesia dengan ada kertas yang menjelaskan tentang gambar-gambar tersebut. Menggunakan teknik menggambar digital dan bertujuan untuk memenuhi produk PPKn. Produk ini kami pilih menjadi salah satu produk PPKn karena pada umumnya dapat diketahui pouch biasanya bersifat polos, tetapi kami ingin mengekspresi budaya khas dan juga monumen Indonesia melalui gambar menggunakan sablon yang ditempel lalu disetrika. Selain pouch yang gambarnya sudah kami gambar sendiri secara digital, kami juga menyertakan definisi dan <i>fun fact</i> tiga gambar yang kami ambil agar dapat menyebarkan pengetahuan tentang gambar kebudayaan khas Indonesia yang begitu unik dan istimewa."
+        description: "Termasuk juga produk umum untuk menyimpan barang-barang kecil ataupun barang-barang yang penting. Pouch yang sudah kami persiapkan menggunakan gambar Mbaru Niang (NTT), Monas (Jawa - Jakarta), dan Keris (Jawa) yang merupakan kebudayaan khas Indonesia dengan ada kertas yang menjelaskan tentang gambar-gambar tersebut. Menggunakan teknik menggambar digital dan bertujuan untuk memenuhi produk PPKn. Produk ini kami pilih menjadi salah satu produk PPKn karena pada umumnya dapat diketahui pouch biasanya bersifat polos, tetapi kami ingin mengekspresi budaya khas dan juga monumen Indonesia melalui gambar menggunakan sablon yang ditempel lalu disetrika. Selain pouch yang gambarnya sudah kami gambar sendiri secara digital, kami juga menyertakan definisi dan fun fact tiga gambar yang kami ambil agar dapat menyebarkan pengetahuan tentang gambar kebudayaan khas Indonesia yang begitu unik dan istimewa."
     },
     {
         src: "pp8.png",
         title: "RingRaja (PPKn)",
-        description: "Produk yang seringkali dikoleksi dan dimana-mana pasti ada mau di media sosial atau secara langsung. Keychain ini dibuat dengan teknik menggambar digital yang bertema bunga-bunga khas Indonesia yang kami pilih yaitu anggrek ungu, rafflesia arnoldii, dan melati putih. Kami juga pikir bahwa akan lebih seru ketika diletakkan di dalam tempat blind box agar bisa lebih seru dan mengejutkan apa yang akan didapatkan dan karena zaman sekarang banyak sekali blind box yang sudah digunakan dimana-mana. Ini juga bertujuan untuk memenuhi produk PPKn. Produk ini yang kami sudah buat dilatarbelakangi oleh gantungan kunci yang sangat populer pada zaman sekarang dan dapat dilihat di berbagai media sosial dimana banyak warnet atau artis-artis membuat gantungan kunci dengan menggambarkan desain tersebut secara digital sehingga dijadikan <i>merch</i> mereka yang biasa laku ketika dijual. Kami memilih tema flora untuk gantungan kunci kami karena flora di Indonesia merupakan keanekaragaman hayati yang dapat membuat sebuah pemandangan yang memesona dan indah untuk dipandang."
+        description: "Produk yang seringkali dikoleksi dan dimana-mana pasti ada mau di media sosial atau secara langsung. Keychain ini dibuat dengan teknik menggambar digital yang bertema bunga-bunga khas Indonesia yang kami pilih yaitu anggrek ungu, rafflesia arnoldii, dan melati putih. Kami juga pikir bahwa akan lebih seru ketika diletakkan di dalam tempat blind box agar bisa lebih seru dan mengejutkan apa yang akan didapatkan dan karena zaman sekarang banyak sekali blind box yang sudah digunakan dimana-mana. Ini juga bertujuan untuk memenuhi produk PPKn. Produk ini yang kami sudah buat dilatarbelakangi oleh gantungan kunci yang sangat populer pada zaman sekarang dan dapat dilihat di berbagai media sosial dimana banyak warnet atau artis-artis membuat gantungan kunci dengan menggambarkan desain tersebut secara digital sehingga dijadikan merch mereka yang biasa laku ketika dijual. Kami memilih tema flora untuk gantungan kunci kami karena flora di Indonesia merupakan keanekaragaman hayati yang dapat membuat sebuah pemandangan yang memesona dan indah untuk dipandang."
     }, 
     {
         src: "pp9.png",
         title: "Treasure Bundle",
-        description: "Perkumpulan produk kami dari yaitu <i>RingRaja</i> (gantungan kunci), <i>NusaPouchy</i> (pouch), dan <i>Stikantara</i> (stiker). Kami berpikir bahwa membuat tiga produk ini dijadikan bundle dengan harga yang sedikit murah daripada harga biasa dan terjangkau."
+        description: "Perkumpulan produk kami dari yaitu RingRaja (gantungan kunci), NusaPouchy (pouch), dan Stikantara (stiker). Kami berpikir bahwa membuat tiga produk ini dijadikan bundle dengan harga yang sedikit murah daripada harga biasa dan terjangkau."
     },
     {
         src: "pp10.png",
         title: "Flores Ink Bundle",
-        description: "Perkumpulan produk yang berisi kertas daur ulang (produk bioteknologi), <i>washi tapes</i>, dan <i>feather pen</i>. Bundle ini kami rencanakan sebagai <i>journaling set</i> karena cocok untuk remaja-remaja sekarang yang sedang mencari perlengkapan tulis."
+        description: "Perkumpulan produk yang berisi kertas daur ulang (produk bioteknologi), washi tapes, dan feather pen. Bundle ini kami rencanakan sebagai journaling set karena cocok untuk remaja-remaja sekarang yang sedang mencari perlengkapan tulis."
     },
 ];
 
