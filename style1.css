@@ -674,7 +674,7 @@ body {
 }
 
 .bg{
-    background-image: url(booth3.png);
+    background-image: url(indexcover1.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-clip: border-box; /* Memastikan clipping mengikuti border */
