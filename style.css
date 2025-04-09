@@ -35,6 +35,10 @@ box-sizing: border-box;
                         font-family: 'Times New Roman', Times, serif;
                         box-sizing: border-box;
                         }
+                        .contentboxp, .a href  {
+                            font-family: 'Times New Roman', Times, serif;
+                            box-sizing: border-box;}    
+                        
 .indexcover p{
     .contentboxp, h2 {
         font-family: 'Times New Roman', Times, serif;
@@ -683,7 +687,7 @@ h2{
 }
 .contentbox {
     margin-top: 100px;
-    background: linear-gradient(#B87948);
+    background: linear-gradient(#ecc8a3);
     padding: 20px; /* Ruang dalam */
     border-radius: 10px; /* Membulatkan sudut */
     box-shadow: 4px 6px 10px rgba(0, 0, 0, 0.2); /* Efek bayangan */
