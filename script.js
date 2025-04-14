@@ -135,24 +135,3 @@ document.getElementById("prev-btn").addEventListener("click", prevImage);
 document.getElementById("next-btn").addEventListener("click", nextImage);
 
 
-
-document.addEventListener("DOMContentLoaded", () => {
-    showImage(currentIndex);
-});
-document.getElementById('search-button').addEventListener('click', () => {
-    const searchTerm = document.getElementById('search-input').value.toLowerCase();
-    const elements = document.querySelectorAll('p'); // Selects all elements
-    
-    elements.forEach(element => {
-        if (element.textContent) {
-            const text = element.textContent.toLowerCase();
-            if (text.includes(searchTerm)) {
-                // buat highlighting search termnnya
-                const highlightedText = text.replace(new RegExp(searchTerm, 'g'), (match) => `<mark>${match}</mark>`);
-                element.innerHTML = highlightedText;
-            } else {
-                element.innerHTML = element.textContent; // buat hilangin highlights kalau if not found
-            }
-        }
-    });
-    });
