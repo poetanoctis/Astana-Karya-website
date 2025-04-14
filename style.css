@@ -1,53 +1,63 @@
 * {
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Lucida Sans';
+
     box-sizing: border-box;
 }
 .contentboxp, i {
-font-family: 'Times New Roman', Times, serif;
-box-sizing: border-box;
+    font-family: 'Lucida Sans';box-sizing: border-box;
 }
 .contentboxp, b {
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Lucida Sans';
+
     box-sizing: border-box;
     }
     
 .contentboxp, p {
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Lucida Sans';
+
     box-sizing: border-box;
     }
 .contentboxp, h1 {
-        font-family: 'Times New Roman', Times, serif;
+        font-family: 'Lucida Sans';
+
         box-sizing: border-box;
         }
         .contentboxp, h2 {
-            font-family: 'Times New Roman', Times, serif;
+            font-family: 'Lucida Sans';
+
             box-sizing: border-box;
             }
             .contentboxp, h3 {
-                font-family: 'Times New Roman', Times, serif;
+                font-family: 'Lucida Sans';
+
                 box-sizing: border-box;
                 }
                 .contentboxp, li {
-                    font-family: 'Times New Roman', Times, serif;
+                    font-family: 'Lucida Sans';
+
                     box-sizing: border-box;
                     }
                     .contentboxp, .highlight {
-                        font-family: 'Times New Roman', Times, serif;
+                        font-family: 'Lucida Sans';
+
                         box-sizing: border-box;
                         }
                         .contentboxp, .a href  {
-                            font-family: 'Times New Roman', Times, serif;
+                            font-family: 'Lucida Sans';
+
                             box-sizing: border-box;}    
                         
 .indexcover p{
     .contentboxp, h2 {
-        font-family: 'Times New Roman', Times, serif;
+        font-family: 'Lucida Sans';
+
         box-sizing: border-box;
         font-size: 1em;
         }    }
         .indexcover h2{
             .contentboxp, h2 {
-                font-family: 'Times New Roman', Times, serif;
+                font-family: 'Lucida Sans';
+
                 box-sizing: border-box;
 
                 }}        
@@ -681,7 +691,8 @@ html{
 }
 
 h2{
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Lucida Sans';
+
     font-size: 20px;
     font: bolder;
 }
@@ -701,14 +712,15 @@ h2{
     border-radius: 10px; /* Membulatkan sudut */
     box-shadow: 4px 6px 10px rgba(0, 0, 0, 0.2); /* Efek bayangan */
     margin: 20px; /* Jarak antar elemen */ 
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Lucida Sans';
     font-size: 18px;
     text-align: justify;
 }
 
 .indexcover {    
     background: url(indexcover.png)no repeat;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Lucida Sans';
+
     font-size: 1em;
     text-align: justify;
 }
